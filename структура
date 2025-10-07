@@ -1,0 +1,9 @@
+QA-Portfolio/
+├── README.md
+├── test-cases.xlsx
+├── bug-reports.xlsx
+├── sql-practice.txt
+├── api-tests.postman_collection.json
+└── screenshots/
+      ├── demoqa_form.png
+      └── rozetka_bug1.png
